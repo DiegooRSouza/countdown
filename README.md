@@ -10,7 +10,7 @@ A aplicação tem um contador regressiva que conta da data atual até a data do 
 Design da aplicação no figma: <a href="https://www.figma.com/file/5t2IIW7bq8UDehNXb4esus/DD-%2F-Countdown-(Copy)?node-id=0%3A1">Design</a>
 
 ## Layout web
-<img src="https://github.com/DiegooRSouza/assets/blob/main/countdown-mobile.gif" alt="layoutweb" width="700"/>
+<img src="https://github.com/DiegooRSouza/assets/blob/main/countdown-desktop.gif" alt="layoutweb" width="1200"/>
 
 ## Layout mobile
 <img src="https://github.com/DiegooRSouza/assets/blob/main/countdown-mobile.gif" width="200"/>
