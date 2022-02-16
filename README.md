@@ -5,7 +5,7 @@
 
 Aplicação web front-end para lançamento de um site, produto ou serviço, nela temos um countdown timer (timer de contagem regressiva) informando quanto tempo falta para o lançamento. 
 
-A aplicação tem um contador regressiva que conta da data atual até a data do lançamento em tempo real, possui um tela de formulário para cadastro dos interessados.
+A aplicação tem um contagem regressiva que conta da data atual até a data do lançamento em tempo real e possui um tela de formulário para cadastro dos interessados.
 
 Design da aplicação no figma: <a href="https://www.figma.com/file/5t2IIW7bq8UDehNXb4esus/DD-%2F-Countdown-(Copy)?node-id=0%3A1">Design</a>
 
