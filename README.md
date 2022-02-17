@@ -1,5 +1,5 @@
 # Countdown
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DiegooRSouza/social-tree/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DiegooRSouza/countdown/blob/main/LICENSE)
 
 ## Sobre o projeto
 
